@@ -1,6 +1,5 @@
-import React, { useRef, useEffect } from "react";
+import React, { useRef } from "react";
 import ForceGraph2D from "react-force-graph-2d";
-import * as d3 from "d3";
 import useWindowDimensions from "./useWindowDimensions"; // Assuming the custom hook file is named useWindowDimensions.js
 
 const ForceGraph = () => {

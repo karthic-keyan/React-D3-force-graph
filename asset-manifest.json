@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-vis-demo/static/css/main.4a1a7bda.css",
+    "main.js": "/react-vis-demo/static/js/main.675148c8.js",
+    "static/js/453.82d152bb.chunk.js": "/react-vis-demo/static/js/453.82d152bb.chunk.js",
+    "index.html": "/react-vis-demo/index.html",
+    "main.4a1a7bda.css.map": "/react-vis-demo/static/css/main.4a1a7bda.css.map",
+    "main.675148c8.js.map": "/react-vis-demo/static/js/main.675148c8.js.map",
+    "453.82d152bb.chunk.js.map": "/react-vis-demo/static/js/453.82d152bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a1a7bda.css",
+    "static/js/main.675148c8.js"
+  ]
+}
